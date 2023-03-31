@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/robotics23/dev_ws/install/usi_angry_turtle/lib/python3.10/site-packages",
+        "/home/robotics23/dev_ws/install/thymioid/lib/python3.10/site-packages",
+        "/home/robotics23/dev_ws/install/thymio_driver/lib/python3.10/site-packages",
+        "/home/robotics23/dev_ws/install/thymio_msgs/local/lib/python3.10/dist-packages",
+        "/home/robotics23/dev_ws/install/robomaster_ros/lib/python3.10/site-packages",
+        "/home/robotics23/dev_ws/install/robomaster_msgs/local/lib/python3.10/dist-packages",
+        "/home/robotics23/dev_ws/install/ninja_turtle/lib/python3.10/site-packages",
+        "/home/robotics23/dev_ws/install/asebaros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
